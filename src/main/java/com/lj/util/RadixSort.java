@@ -6,7 +6,8 @@ package com.lj.util;
  * Package Name:com.lj.util
  * Date:2019/5/5
  * Author:liujie
- * Description:基数排序（又称桶排序）  时间复杂度：O()
+ * Description:基数排序（又称桶排序）  时间复杂度：O(d(n+r))  其中d是最大值的位数  n是待排序值的数量
+ *             r是待排序值中每个关键字的取值个数【数字r就是10（0-9），字母r就是26（a-z）】
  * Copyright (c) 2019, 重庆云凯科技有限公司 All Rights Reserved.
  */
 
