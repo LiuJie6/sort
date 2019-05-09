@@ -22,10 +22,10 @@ public class MergeSort {
      * @param right  右值小标
      */
     private static void merge(int[] a, int left, int middle, int right) {
-        int[] temp = new int[a.length];   //辅助数组
+        int[] temp = new int[right - left + 1];   //辅助数组
         int p1 = left;
         int p2 = middle + 1;
-        int k = left;
+        int k = 0;
         while (p1 <= middle && p2 <= right) {
             if (a[p1] < a[p2]) {
                 temp[k++] = a[p1++];
@@ -39,8 +39,9 @@ public class MergeSort {
         while (p2 <= right) {
             temp[k++] = a[p2++];
         }
+        k = 0;
         for (int i = left; i <= right; i++) {
-            a[i] = temp[i];
+            a[i] = temp[k++];
         }
     }
 

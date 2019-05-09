@@ -18,7 +18,7 @@ public class BubbleSort {
      *
      * @param a 待排序数组
      */
-    private static void bubbleSort(int[] a) {
+    public static void bubbleSort(int[] a) {
         for (int i = 0; i < a.length; i++) {
             for (int j = 0; j < a.length - 1 - i; j++) {
                 if (a[j] > a[j + 1]) {
