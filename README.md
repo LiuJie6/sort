@@ -13,3 +13,4 @@
 
 ## 实际运行结果
 ### 数组长度为1w时：
+ ![image](https://github.com/LiuJie6/sort/raw/master/resources/img/1w.jpg)
