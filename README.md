@@ -14,5 +14,12 @@
 
 ## 实际运行结果
 ### 数组长度为1w时：
-![Image text](https://raw.githubusercontent.com/LiuJie6/sort/master/img/1w.png)
 ![image](https://github.com/LiuJie6/sort/raw/master/img/1w.png)
+### 数组长度为10w时：
+![image](https://github.com/LiuJie6/sort/raw/master/img/10w.png)
+### 数组长度为100w时：
+![image](https://github.com/LiuJie6/sort/raw/master/img/100w.png)
+### 数组长度为1000w时：
+![image](https://github.com/LiuJie6/sort/raw/master/img/1000w.png)
+### 各算法复杂度：
+![image](https://github.com/LiuJie6/sort/raw/master/img/复杂度.png)
