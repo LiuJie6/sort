@@ -23,3 +23,5 @@
 ![image](https://github.com/LiuJie6/sort/raw/master/img/1000w.png)
 ### 各算法复杂度：
 ![image](https://github.com/LiuJie6/sort/raw/master/img/复杂度.png)
+
+##readme中添加图片、代码等的格式：https://blog.csdn.net/qq_39098813/article/details/82315159
