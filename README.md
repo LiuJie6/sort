@@ -14,4 +14,5 @@
 
 ## 实际运行结果
 ### 数组长度为1w时：
- ![image](https://github.com/LiuJie6/sort/raw/master/img/1w.jpg)
+![Image text](https://raw.githubusercontent.com/LiuJie6/sort/master/img/1w.png)
+![image](https://github.com/LiuJie6/sort/raw/master/img/1w.png)
